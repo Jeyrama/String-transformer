@@ -10,3 +10,6 @@ You will have to handle multiple spaces, and leading/trailing spaces.
 For example:
   "Example Input" ==> "iNPUT eXAMPLE"
 */
+
+
+// Solution
