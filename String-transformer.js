@@ -25,3 +25,5 @@ function stringTransformer(str) {
       v.toUpperCase())
     .join('');
 }
+
+// or
